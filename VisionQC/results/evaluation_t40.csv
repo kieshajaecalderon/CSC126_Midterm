@@ -1,0 +1,23 @@
+file,true_label,predicted_status,regions,area_px,coverage_percent
+data/samples/test/normal\normal_01.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_02.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_03.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_04.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_05.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_06.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_07.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_08.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_09.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/normal\normal_10.png,normal,Likely Normal,0,0.0,0.0
+data/samples/test/defective\defect_dent_01.png,defective,Suspected Defect,1,1163.5,0.5918
+data/samples/test/defective\defect_dent_02.png,defective,Suspected Defect,1,1114.0,0.5666
+data/samples/test/defective\defect_dent_03.png,defective,Suspected Defect,1,1170.5,0.5953
+data/samples/test/defective\defect_hole_01.png,defective,Suspected Defect,1,434.0,0.2207
+data/samples/test/defective\defect_hole_02.png,defective,Suspected Defect,1,693.0,0.3525
+data/samples/test/defective\defect_hole_03.png,defective,Suspected Defect,1,388.5,0.1976
+data/samples/test/defective\defect_scratch_01.png,defective,Suspected Defect,1,323.0,0.1643
+data/samples/test/defective\defect_scratch_02.png,defective,Suspected Defect,1,371.5,0.189
+data/samples/test/defective\defect_scratch_03.png,defective,Suspected Defect,1,492.5,0.2505
+data/samples/test/defective\defect_stain_01.png,defective,Suspected Defect,1,800.0,0.4069
+data/samples/test/defective\defect_stain_02.png,defective,Suspected Defect,1,886.5,0.4509
+data/samples/test/defective\defect_stain_03.png,defective,Suspected Defect,1,1091.0,0.5549
